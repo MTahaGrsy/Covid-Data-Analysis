@@ -120,9 +120,3 @@ python CovidData.py
 * **Future Enhancements:**
 * Transition the pipeline to use standard negative binomial models (e.g., via `PyDESeq2`).
 * Implement dynamic command-line argument parsing (`argparse`) to eliminate hard-coded file paths.
-
-
-
-```
-
-```
